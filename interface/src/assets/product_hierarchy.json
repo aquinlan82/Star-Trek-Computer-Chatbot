@@ -1,0 +1,739 @@
+{
+    "All Product Groups": {
+        "All Series": [
+            "All Models",
+            "IDEAL 10",
+            "IDEAL 7",
+            "IDEAL 8",
+            "IDEAL 9",
+            "650 (T658)",
+            "850 (T659)",
+            "360 PLUS (T660)",
+            "475 PLUS (T668)",
+            "490 (T670)",
+            "12130",
+            "12130S BALER",
+            "1270 BALER",
+            "1270S BALER",
+            "1290 BALER",
+            "1290S BALER",
+            "1290 ULTRA HD",
+            "1290 XD BALER",
+            "1290S XD BALER",
+            "990 BALER",
+            "ROTANA 130 F COMBI",
+            "ROTANA 160 V COMBI",
+            "Rotana 130 F Combi (CEA)",
+            "Rotana 160 V Combi (CEA)",
+            "Booster 3-point attach",
+            "CUTTER 2940 FPV",
+            "CUTTER 310 FZ",
+            "CUTTER 310 TL",
+            "CUTTER 3140 FPV",
+            "CUTTER 3340 FPV",
+            "FORMER 1000 C PRO",
+            "FORMER 10065",
+            "FORMER 10065 PRO",
+            "FORMER 12545",
+            "FORMER 12545 PRO",
+            "FORMER 1402",
+            "FORMER 1452",
+            "FORMER 1502",
+            "FORMER 1603",
+            "FORMER 301 DN",
+            "FORMER 351 DN",
+            "FORMER 391 DN",
+            "FORMER 400 DN",
+            "FORMER 426 DN",
+            "FORMER 456 DN",
+            "FORMER 671",
+            "FORMER 760 C",
+            "FORMER 7850",
+            "FORMER 7850 PRO",
+            "FORMER 801",
+            "FORMER 8055 PRO",
+            "FORMER 860 C",
+            "FORMER 860 C PRO",
+            "FORMER 880",
+            "FORMER 920 C",
+            "FORMER 920 C PRO",
+            "Rotana 130 F",
+            "LOTUS 770",
+            "SLICER 1010 KC",
+            "SLICER 1010 KC PRO",
+            "SLICER 1010 KCB PRO",
+            "SLICER 1010 RC",
+            "SLICER 1010 RC PRO",
+            "SLICER 1010 RCB PRO",
+            "SLICER 260 FP",
+            "SLICER 260 FPS",
+            "SLICER 3060 TL",
+            "SLICER 310 FPK",
+            "SLICER 310 FQ",
+            "SLICER 3160 TLX",
+            "SLICER 3160 TLXRC",
+            "SLICER 3670 TLX",
+            "SLICER 3670 TLXRC",
+            "SLICER 4080 TL",
+            "SLICER 4590 TL",
+            "SLICER 8312 TLKCB",
+            "SLICER 860",
+            "SLICER 860 KC",
+            "SLICER 860 RC",
+            "SLICER 9314 TLKCB",
+            "SLICER 960",
+            "SLICER 960 KC",
+            "SLICER 960 KC PRO",
+            "SLICER 960 KCB PRO",
+            "SLICER 960 RC",
+            "SLICER 960 RC PRO",
+            "SLICER 960 RCB PRO",
+            "TWISTER 1100 HYDRO",
+            "TWISTER 11010 DN",
+            "TWISTER 1300 HYDRO",
+            "TWISTER 13010 T",
+            "TWISTER 431 DN",
+            "TWISTER 5204 DN",
+            "TWISTER 601 DN",
+            "TWISTER 6606 DN",
+            "TWISTER 7706 DN",
+            "TWISTER 8608 DN",
+            "Rotana 160 V",
+            "Rotana 160 V (CEA)",
+            "Rotana 180 V",
+            "Rotana 180 V (CEA)",
+            "Rollector - Baler Wrapper",
+            "TIGO 100 MR",
+            "TIGO 100 MR PROFI",
+            "TIGO 100 XR",
+            "TIGO 100 XR D",
+            "TIGO 25 ST",
+            "TIGO 35 S",
+            "TIGO 35 ST",
+            "TIGO 40 MR",
+            "TIGO 40 MS",
+            "TIGO 40 MS D",
+            "TIGO 40 ST",
+            "TIGO 45 PR (D)",
+            "TIGO 50 MR",
+            "TIGO 50 MR D",
+            "TIGO 50 MS",
+            "TIGO 50 MS D",
+            "TIGO 50 PR (D)",
+            "TIGO 50 PROFI",
+            "TIGO 50 S",
+            "TIGO 50 ST",
+            "TIGO 60 MR",
+            "TIGO 60 MR D",
+            "TIGO 60 MR D PROFI",
+            "TIGO 60 MS",
+            "TIGO 60 PR (D)",
+            "TIGO 70",
+            "TIGO 70 MS",
+            "TIGO 70 PR (D)",
+            "TIGO 75 XR (D)",
+            "TIGO 90 XR",
+            "TIGO 90 XR (D)",
+            "TIGO 60 R",
+            "1038 Vario Gen3 (T544)",
+            "1042 Vario Gen3 (T545)",
+            "1046 Vario Gen3 (T546)",
+            "1050 Vario Gen3 (T547)",
+            "311 (T351)",
+            "312 (T352)",
+            "313 (T353)",
+            "314 (T354)",
+            "512 (T435)",
+            "513 (T436)",
+            "514 (T437)",
+            "516 (T438)",
+            "626",
+            "720 (T706)",
+            "722 (T707)",
+            "724 (T708)",
+            "726 (T709)",
+            "728 (T710)",
+            "930 Vario Gen7 (T968)",
+            "933 Vario Gen7 (T969)",
+            "936 Vario Gen7 (T970)",
+            "939 Vario Gen7 (T971)",
+            "942 Vario Gen7 (T972)",
+            "938 MT (T-T9AA)",
+            "940 MT (T-T9AC)",
+            "943 MT (T-T9AE)",
+            "T740 Cargo",
+            "T955 Cargo",
+            "e107 Vario (T141)",
+            "800 (80B)"
+        ],
+        "Ideal Series Combine": [
+            "All Models"
+        ],
+        "Katana 650 Gen3 (Tier5)": [
+            "All Models"
+        ],
+        "Katana 850 Gen3 (Tier5)": [
+            "All Models"
+        ],
+        "Katana Corn Header": [
+            "All Models"
+        ],
+        "Katana Gen4": [
+            "All Models"
+        ],
+        "1200 Srs. Large Square Baler": [
+            "All Models"
+        ],
+        "1200 Srs. Ultra HD Baler": [
+            "All Models"
+        ],
+        "1200 XD Srs Large Square Baler": [
+            "All Models"
+        ],
+        "900 Srs. Large Sqr Baler": [
+            "All Models"
+        ],
+        "Baler Wrapper Combination": [
+            "All Models"
+        ],
+        "Booster Conditioner": [
+            "All Models"
+        ],
+        "CUTTER Srs. Drum Mowers": [
+            "All Models"
+        ],
+        "FORMER Srs. Rakes": [
+            "All Models"
+        ],
+        "Fixed Chamber Baler": [
+            "All Models"
+        ],
+        "Lotus Srs. Tedder": [
+            "All Models"
+        ],
+        "SLICER Srs. Disc Mowers": [
+            "All Models"
+        ],
+        "TWISTER Srs. Tedders": [
+            "All Models"
+        ],
+        "Variable Chamber Baler": [
+            "All Models"
+        ],
+        "Rollector Srs. Baler Wrapper": [
+            "All Models"
+        ],
+        "Tigo Loader Wagon": [
+            "All Models"
+        ],
+        "Tigo Loader Wagons": [
+            "All Models"
+        ],
+        "1000 Gen3": [
+            "All Models",
+            "1038 Vario Gen3 (T544)",
+            "1042 Vario Gen3 (T545)",
+            "1046 Vario Gen3 (T546)",
+            "1050 Vario Gen3 (T547)"
+        ],
+        "300 Vario Gen4": [
+            "All Models",
+            "311 (T351)",
+            "312 (T352)",
+            "313 (T353)",
+            "314 (T354)"
+        ],
+        "500 S4 (Tier4f)": [
+            "All Models",
+            "512 (T435)",
+            "513 (T436)",
+            "514 (T437)",
+            "516 (T438)"
+        ],
+        "600 Srs. Tractor": [
+            "All Models",
+            "626"
+        ],
+        "700 Gen7": [
+            "All Models",
+            "720 (T706)",
+            "722 (T707)",
+            "724 (T708)",
+            "726 (T709)",
+            "728 (T710)"
+        ],
+        "900 Gen7": [
+            "All Models",
+            "930 Vario Gen7 (T968)",
+            "933 Vario Gen7 (T969)",
+            "936 Vario Gen7 (T970)",
+            "939 Vario Gen7 (T971)",
+            "942 Vario Gen7 (T972)"
+        ],
+        "900 MT": [
+            "All Models",
+            "938 MT (T-T9AA)",
+            "940 MT (T-T9AC)",
+            "943 MT (T-T9AE)"
+        ],
+        "T740 Srs. Cargo Telehandler": [
+            "All Models",
+            "T740 Cargo"
+        ],
+        "T955 Srs. Cargo Telehandler": [
+            "All Models",
+            "T955 Cargo"
+        ],
+        "e100 Vario Srs. Tractor": [
+            "All Models",
+            "e107 Vario (T141)"
+        ],
+        "800 (80B)": [
+            "All Models",
+            "800 (80B)"
+        ]
+    },
+    "Harvesting Equipment": {
+        "All Series": [
+            "All Models",
+            "IDEAL 10",
+            "IDEAL 7",
+            "IDEAL 8",
+            "IDEAL 9",
+            "650 (T658)",
+            "850 (T659)",
+            "360 PLUS (T660)",
+            "475 PLUS (T668)",
+            "490 (T670)"
+        ],
+        "Ideal Series Combine": [
+            "All Models",
+            "IDEAL 10",
+            "IDEAL 7",
+            "IDEAL 8",
+            "IDEAL 9"
+        ],
+        "Katana 650 Gen3 (Tier5)": [
+            "All Models",
+            "650 (T658)"
+        ],
+        "Katana 850 Gen3 (Tier5)": [
+            "All Models",
+            "850 (T659)"
+        ],
+        "Katana Corn Header": [
+            "All Models",
+            "360 PLUS (T660)",
+            "475 PLUS (T668)"
+        ],
+        "Katana Gen4": [
+            "All Models",
+            "490 (T670)"
+        ]
+    },
+    "Hay Products": {
+        "All Series": [
+            "All Models",
+            "12130",
+            "12130S BALER",
+            "1270 BALER",
+            "1270S BALER",
+            "1290 BALER",
+            "1290S BALER",
+            "1290 ULTRA HD",
+            "1290 XD BALER",
+            "1290S XD BALER",
+            "990 BALER",
+            "ROTANA 130 F COMBI",
+            "ROTANA 160 V COMBI",
+            "Rotana 130 F Combi (CEA)",
+            "Rotana 160 V Combi (CEA)",
+            "Booster 3-point attach",
+            "CUTTER 2940 FPV",
+            "CUTTER 310 FZ",
+            "CUTTER 310 TL",
+            "CUTTER 3140 FPV",
+            "CUTTER 3340 FPV",
+            "FORMER 1000 C PRO",
+            "FORMER 10065",
+            "FORMER 10065 PRO",
+            "FORMER 12545",
+            "FORMER 12545 PRO",
+            "FORMER 1402",
+            "FORMER 1452",
+            "FORMER 1502",
+            "FORMER 1603",
+            "FORMER 301 DN",
+            "FORMER 351 DN",
+            "FORMER 391 DN",
+            "FORMER 400 DN",
+            "FORMER 426 DN",
+            "FORMER 456 DN",
+            "FORMER 671",
+            "FORMER 760 C",
+            "FORMER 7850",
+            "FORMER 7850 PRO",
+            "FORMER 801",
+            "FORMER 8055 PRO",
+            "FORMER 860 C",
+            "FORMER 860 C PRO",
+            "FORMER 880",
+            "FORMER 920 C",
+            "FORMER 920 C PRO",
+            "Rotana 130 F",
+            "LOTUS 770",
+            "SLICER 1010 KC",
+            "SLICER 1010 KC PRO",
+            "SLICER 1010 KCB PRO",
+            "SLICER 1010 RC",
+            "SLICER 1010 RC PRO",
+            "SLICER 1010 RCB PRO",
+            "SLICER 260 FP",
+            "SLICER 260 FPS",
+            "SLICER 3060 TL",
+            "SLICER 310 FPK",
+            "SLICER 310 FQ",
+            "SLICER 3160 TLX",
+            "SLICER 3160 TLXRC",
+            "SLICER 3670 TLX",
+            "SLICER 3670 TLXRC",
+            "SLICER 4080 TL",
+            "SLICER 4590 TL",
+            "SLICER 8312 TLKCB",
+            "SLICER 860",
+            "SLICER 860 KC",
+            "SLICER 860 RC",
+            "SLICER 9314 TLKCB",
+            "SLICER 960",
+            "SLICER 960 KC",
+            "SLICER 960 KC PRO",
+            "SLICER 960 KCB PRO",
+            "SLICER 960 RC",
+            "SLICER 960 RC PRO",
+            "SLICER 960 RCB PRO",
+            "TWISTER 1100 HYDRO",
+            "TWISTER 11010 DN",
+            "TWISTER 1300 HYDRO",
+            "TWISTER 13010 T",
+            "TWISTER 431 DN",
+            "TWISTER 5204 DN",
+            "TWISTER 601 DN",
+            "TWISTER 6606 DN",
+            "TWISTER 7706 DN",
+            "TWISTER 8608 DN",
+            "Rotana 160 V",
+            "Rotana 160 V (CEA)",
+            "Rotana 180 V",
+            "Rotana 180 V (CEA)"
+        ],
+        "1200 Srs. Large Square Baler": [
+            "All Models",
+            "12130",
+            "12130S BALER",
+            "1270 BALER",
+            "1270S BALER",
+            "1290 BALER",
+            "1290S BALER"
+        ],
+        "1200 Srs. Ultra HD Baler": [
+            "All Models",
+            "1290 ULTRA HD"
+        ],
+        "1200 XD Srs Large Square Baler": [
+            "All Models",
+            "1290 XD BALER",
+            "1290S XD BALER"
+        ],
+        "900 Srs. Large Sqr Baler": [
+            "All Models",
+            "990 BALER"
+        ],
+        "Baler Wrapper Combination": [
+            "All Models",
+            "ROTANA 130 F COMBI",
+            "ROTANA 160 V COMBI",
+            "Rotana 130 F Combi (CEA)",
+            "Rotana 160 V Combi (CEA)"
+        ],
+        "Booster Conditioner": [
+            "All Models",
+            "Booster 3-point attach"
+        ],
+        "CUTTER Srs. Drum Mowers": [
+            "All Models",
+            "CUTTER 2940 FPV",
+            "CUTTER 310 FZ",
+            "CUTTER 310 TL",
+            "CUTTER 3140 FPV",
+            "CUTTER 3340 FPV"
+        ],
+        "FORMER Srs. Rakes": [
+            "All Models",
+            "FORMER 1000 C PRO",
+            "FORMER 10065",
+            "FORMER 10065 PRO",
+            "FORMER 12545",
+            "FORMER 12545 PRO",
+            "FORMER 1402",
+            "FORMER 1452",
+            "FORMER 1502",
+            "FORMER 1603",
+            "FORMER 301 DN",
+            "FORMER 351 DN",
+            "FORMER 391 DN",
+            "FORMER 400 DN",
+            "FORMER 426 DN",
+            "FORMER 456 DN",
+            "FORMER 671",
+            "FORMER 760 C",
+            "FORMER 7850",
+            "FORMER 7850 PRO",
+            "FORMER 801",
+            "FORMER 8055 PRO",
+            "FORMER 860 C",
+            "FORMER 860 C PRO",
+            "FORMER 880",
+            "FORMER 920 C",
+            "FORMER 920 C PRO"
+        ],
+        "Fixed Chamber Baler": [
+            "All Models",
+            "Rotana 130 F"
+        ],
+        "Lotus Srs. Tedder": [
+            "All Models",
+            "LOTUS 770"
+        ],
+        "SLICER Srs. Disc Mowers": [
+            "All Models",
+            "SLICER 1010 KC",
+            "SLICER 1010 KC PRO",
+            "SLICER 1010 KCB PRO",
+            "SLICER 1010 RC",
+            "SLICER 1010 RC PRO",
+            "SLICER 1010 RCB PRO",
+            "SLICER 260 FP",
+            "SLICER 260 FPS",
+            "SLICER 3060 TL",
+            "SLICER 310 FPK",
+            "SLICER 310 FQ",
+            "SLICER 3160 TLX",
+            "SLICER 3160 TLXRC",
+            "SLICER 3670 TLX",
+            "SLICER 3670 TLXRC",
+            "SLICER 4080 TL",
+            "SLICER 4590 TL",
+            "SLICER 8312 TLKCB",
+            "SLICER 860",
+            "SLICER 860 KC",
+            "SLICER 860 RC",
+            "SLICER 9314 TLKCB",
+            "SLICER 960",
+            "SLICER 960 KC",
+            "SLICER 960 KC PRO",
+            "SLICER 960 KCB PRO",
+            "SLICER 960 RC",
+            "SLICER 960 RC PRO",
+            "SLICER 960 RCB PRO"
+        ],
+        "TWISTER Srs. Tedders": [
+            "All Models",
+            "TWISTER 1100 HYDRO",
+            "TWISTER 11010 DN",
+            "TWISTER 1300 HYDRO",
+            "TWISTER 13010 T",
+            "TWISTER 431 DN",
+            "TWISTER 5204 DN",
+            "TWISTER 601 DN",
+            "TWISTER 6606 DN",
+            "TWISTER 7706 DN",
+            "TWISTER 8608 DN"
+        ],
+        "Variable Chamber Baler": [
+            "All Models",
+            "Rotana 160 V",
+            "Rotana 160 V (CEA)",
+            "Rotana 180 V",
+            "Rotana 180 V (CEA)"
+        ]
+    },
+    "Implements": {
+        "All Series": [
+            "All Models",
+            "Rollector - Baler Wrapper",
+            "TIGO 100 MR",
+            "TIGO 100 MR PROFI",
+            "TIGO 100 XR",
+            "TIGO 100 XR D",
+            "TIGO 25 ST",
+            "TIGO 35 S",
+            "TIGO 35 ST",
+            "TIGO 40 MR",
+            "TIGO 40 MS",
+            "TIGO 40 MS D",
+            "TIGO 40 ST",
+            "TIGO 45 PR (D)",
+            "TIGO 50 MR",
+            "TIGO 50 MR D",
+            "TIGO 50 MS",
+            "TIGO 50 MS D",
+            "TIGO 50 PR (D)",
+            "TIGO 50 PROFI",
+            "TIGO 50 S",
+            "TIGO 50 ST",
+            "TIGO 60 MR",
+            "TIGO 60 MR D",
+            "TIGO 60 MR D PROFI",
+            "TIGO 60 MS",
+            "TIGO 60 PR (D)",
+            "TIGO 70",
+            "TIGO 70 MS",
+            "TIGO 70 PR (D)",
+            "TIGO 75 XR (D)",
+            "TIGO 90 XR",
+            "TIGO 90 XR (D)",
+            "TIGO 60 R"
+        ],
+        "Rollector Srs. Baler Wrapper": [
+            "All Models",
+            "Rollector - Baler Wrapper"
+        ],
+        "Tigo Loader Wagon": [
+            "All Models",
+            "TIGO 100 MR",
+            "TIGO 100 MR PROFI",
+            "TIGO 100 XR",
+            "TIGO 100 XR D",
+            "TIGO 25 ST",
+            "TIGO 35 S",
+            "TIGO 35 ST",
+            "TIGO 40 MR",
+            "TIGO 40 MS",
+            "TIGO 40 MS D",
+            "TIGO 40 ST",
+            "TIGO 45 PR (D)",
+            "TIGO 50 MR",
+            "TIGO 50 MR D",
+            "TIGO 50 MS",
+            "TIGO 50 MS D",
+            "TIGO 50 PR (D)",
+            "TIGO 50 PROFI",
+            "TIGO 50 S",
+            "TIGO 50 ST",
+            "TIGO 60 MR",
+            "TIGO 60 MR D",
+            "TIGO 60 MR D PROFI",
+            "TIGO 60 MS",
+            "TIGO 60 PR (D)",
+            "TIGO 70",
+            "TIGO 70 MS",
+            "TIGO 70 PR (D)",
+            "TIGO 75 XR (D)",
+            "TIGO 90 XR",
+            "TIGO 90 XR (D)"
+        ],
+        "Tigo Loader Wagons": [
+            "All Models",
+            "TIGO 60 R"
+        ]
+    },
+    "Tractors": {
+        "All Series": [
+            "All Models",
+            "1038 Vario Gen3 (T544)",
+            "1042 Vario Gen3 (T545)",
+            "1046 Vario Gen3 (T546)",
+            "1050 Vario Gen3 (T547)",
+            "311 (T351)",
+            "312 (T352)",
+            "313 (T353)",
+            "314 (T354)",
+            "512 (T435)",
+            "513 (T436)",
+            "514 (T437)",
+            "516 (T438)",
+            "626",
+            "720 (T706)",
+            "722 (T707)",
+            "724 (T708)",
+            "726 (T709)",
+            "728 (T710)",
+            "930 Vario Gen7 (T968)",
+            "933 Vario Gen7 (T969)",
+            "936 Vario Gen7 (T970)",
+            "939 Vario Gen7 (T971)",
+            "942 Vario Gen7 (T972)",
+            "938 MT (T-T9AA)",
+            "940 MT (T-T9AC)",
+            "943 MT (T-T9AE)",
+            "T740 Cargo",
+            "T955 Cargo",
+            "e107 Vario (T141)",
+            "800 (80B)"
+        ],
+        "1000 Gen3": [
+            "All Models",
+            "1038 Vario Gen3 (T544)",
+            "1042 Vario Gen3 (T545)",
+            "1046 Vario Gen3 (T546)",
+            "1050 Vario Gen3 (T547)"
+        ],
+        "300 Vario Gen4": [
+            "All Models",
+            "311 (T351)",
+            "312 (T352)",
+            "313 (T353)",
+            "314 (T354)"
+        ],
+        "500 S4 (Tier4f)": [
+            "All Models",
+            "512 (T435)",
+            "513 (T436)",
+            "514 (T437)",
+            "516 (T438)"
+        ],
+        "600 Srs. Tractor": [
+            "All Models",
+            "626"
+        ],
+        "700 Gen7": [
+            "All Models",
+            "720 (T706)",
+            "722 (T707)",
+            "724 (T708)",
+            "726 (T709)",
+            "728 (T710)"
+        ],
+        "800 (80B)": [
+            "All Models",
+            "800 (80B)"
+        ],
+        "900 Gen7": [
+            "All Models",
+            "930 Vario Gen7 (T968)",
+            "933 Vario Gen7 (T969)",
+            "936 Vario Gen7 (T970)",
+            "939 Vario Gen7 (T971)",
+            "942 Vario Gen7 (T972)"
+        ],
+        "900 MT": [
+            "All Models",
+            "938 MT (T-T9AA)",
+            "940 MT (T-T9AC)",
+            "943 MT (T-T9AE)"
+        ],
+        "T740 Srs. Cargo Telehandler": [
+            "All Models",
+            "T740 Cargo"
+        ],
+        "T955 Srs. Cargo Telehandler": [
+            "All Models",
+            "T955 Cargo"
+        ],
+        "e100 Vario Srs. Tractor": [
+            "All Models",
+            "e107 Vario (T141)"
+        ]
+        
+    }
+}

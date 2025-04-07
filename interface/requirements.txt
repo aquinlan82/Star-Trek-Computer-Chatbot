@@ -1,0 +1,17 @@
+fastapi
+pydantic
+pyarrow
+uvicorn
+boto3
+python-multipart
+python-dotenv
+tiktoken
+tenacity
+openai
+pandas
+numpy
+scipy
+pymilvus
+sentence-transformers
+pyroaring
+s3fs

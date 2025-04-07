@@ -1,0 +1,7 @@
+__pycache__
+*.env
+intermediate_results/
+assets/
+data/
+
+
